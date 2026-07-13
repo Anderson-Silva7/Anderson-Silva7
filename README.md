@@ -1,4 +1,4 @@
-<h3 align="center">Olá 👋, sou o Anderson! Um estudante brasileiro apaixonado por Desenvolvimento.</h3>
+<h3 align="center">Olá 👋, sou o Anderson! Um estudante apaixonado por Desenvolvimento.</h3>
 
 ###
 
